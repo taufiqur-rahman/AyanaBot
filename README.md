@@ -1,4 +1,4 @@
-# Belajar OOP di PHP
+# AyanaBot
 
 Bismillahirrahmanirrahim - بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
