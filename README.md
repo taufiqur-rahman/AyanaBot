@@ -29,8 +29,8 @@ Bismillahirrahmanirrahim - بِسْمِ اللَّهِ الرَّحْمَنِ ا
 ### Cara Menjalankannya
 Jalankan perintah berikut :
 ```
-bash_$ git clone
-bash_$ cd AyanaBot-master
+bash_$ git clone https://github.com/taufiqur-rahman/AyanaBot.git
+bash_$ cd AyanaBot-master 
 bash_$ php ayana.php -s irc.freenode.net -p 6667 -n Dinda_ -r dianuin -c "#ubuntu-indonesia" &
 ```
 
